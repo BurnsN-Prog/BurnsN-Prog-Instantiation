@@ -14,7 +14,7 @@ public class Lab {
      *      return reference;
      *
      * Note: Null is a special type which represents the absence of an object.
-     *
+     *Had to add something to committ changes.
      * @return any object.
      */
     public Object instantiateANewObject(){
